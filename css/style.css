@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Aref Ruqaa Ink', serif;
+}
+
+body {2000px
+    
+}
+ul{ background-color: #efa37f;
+    text-align: center;
+}
+
+
+
+ul li{ display: inline-block;
+       margin: 20px;
+}
+ ul li:hover{
+     background-color: #ff31b2co;
+ }
+
+ul li a{ color: #01539d;
+        text-decoration: none;
+        
+        }
+        /* hero */
+        
+.hero{ 
+    height: 600px;
+  background-image: url('../img/pngwing.com (34).png');
+  background-position: center center;
+  background-repeat: no-repeat;
+    
+}
+
+   .about-us{
+           margin: 50px;
+           text-align: center;
+           width: 80%;
+           margin: auto;
+       
+       
+   }          
+
+  .about-us h1{
+            margin-bottom: 40px;
+            color: blueviolet;
+            font-size: 50px;
+ }
+  .about-us h3{ color: gold;
+                         font-size: 30px;
+                         font-family: arial;
+                         margin-top: 20px;
+  }
+    
+    .box p{
+        color: red;
+        font-size: 16px;
+        border-radius: 50px;
+    }
+  .allbox{ display: flex;}
+  .box{ 
+      background-color: #8098ff;
+      width: 30%;
+      margin: auto;
+      height: 250px;
+      padding: 10 px;
+      border-radius: 10px;
+      cursor: pointer;
+      
+  }
+  .box:hover {background:#e684ae ;
+            box-shadow: 10px 10px 10px #79CBCA;
+  }
+                 
+  .ht{ 
+        width: 50px;
+        height: 50px;
+        color: orangered;
+        font-size: 50px;
+        border-radius: 50%;
+        display: inline-block;                                                      
+  }
+  .css{width: 50px;
+        height: 50px;
+        color: blue;
+        font-size: 50px;
+        border-radius: 50%;
+        display: inline-block;      
+        
+  }
+    .js{width: 50px;
+        height: 50px;
+        color: black;
+        font-size: 50px;
+        border-radius: 50%;
+        display: inline-block;      
+  }
+  .contect {margin: auto;
+                  margin-top: 50px   ;
+                  text-align: center;       
+                  color: red;                    
+               font-size: 20px;
+             border-radius: 50px;
+  }
+.contect h1{ margin-bottom: 40px;
+            color: blueviolet;
+            font-size: 50px;    
+}
+.contect img{ width: 300px;    
+}
+.contect p{
+    margin-bottom: 20px;
+}
+ /*start conten */
+ .contact{
+     margin-top: 50px;
+     margin-bottom: 50px;
+     
+ }
+ .contact form{
+     width: 700px;
+     margin: auto;
+     text-align: center;
+     padding: 50px;
+     border-radius: 5px;
+ }
+.fff input {
+                            width: 400px;
+                            height: 30px;
+                            border: 1px solid  salmon;
+                            border-radius: 3 px;
+                            margin-bottom: 20px;
+ }
+ .fff input focus {
+     border: 1px solid salmon;
+     outline: none;
+ }
+ textarea{
+            width: 400px;
+            height: 200px;
+            border: 1px solid  salmon;
+            border-radius: 3 px;
+ }
+ .btn{
+     background-color: violet;
+     color: whitesmoke;
+     width: 200px;
+     height: 50px;
+     border: 1px solid salmon;
+     font: 20px;
+     cursor: pointer;
+     margin-top: 15 px;
+     border-radius: 5px;
+ }
+ .btn:hover{
+     background-color: blue;
+ }
+ 
